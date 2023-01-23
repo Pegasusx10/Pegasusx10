@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Express API<br>🌱 I’m currently learning SQL<br>💬 Ask me about Technology<br>⚡ Fun fact I am abscessed The first computer “bug” was an actual real-life bug
+🔭 I’m currently working on Express API<br>🌱 I’m currently learning SQL<br>💬 Ask me about Technology<br>⚡ Fun fact I am obsessed The first computer “bug” was an actual real-life bug
 
 
 # 💻 Tech Stack:
@@ -11,5 +11,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pegasusx10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Pegasusx10&icon=0&color=6)](https://visitcount.itsvg.in)
